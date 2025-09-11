@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a young professional intending to continue my career to higher goals. I think in terms of result and objectives, I am enthusiastic and I<br> can work with decisiveness and conviction. I have a proactive attitude and find positive ways to simulate and engage with people.
+Aspiring AI and machine learning specialist with a strong foundation in software development. Currently pursuing an MSc in Artificial Intelligence with Business Strategy at Aston University, developing expertise in machine learning, data-driven decision-making, and AI applications in business. Skilled in Python, React, Node.js, and MongoDB, with experience delivering full-stack projects from concept to deployment. Strong problem-solving mindset demonstrated by solving 200+ algorithmic challenges on LeetCode. Keen to apply a blend of software engineering expertise and growing AI/ML knowledge to create intelligent, impactful solutions within innovative organisations.
 
 
 ## 🌐 Socials:
