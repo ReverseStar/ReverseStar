@@ -1,5 +1,7 @@
 # 💫 About Me:
-Aspiring AI and machine learning specialist with a strong foundation in software development. Currently pursuing an MSc in Artificial Intelligence with Business Strategy at Aston University, developing expertise in machine learning, data-driven decision-making, and AI applications in business. Skilled in Python, React, Node.js, and MongoDB, with experience delivering full-stack projects from concept to deployment. Strong problem-solving mindset demonstrated by solving 200+ algorithmic challenges on LeetCode. Keen to apply a blend of software engineering expertise and growing AI/ML knowledge to create intelligent, impactful solutions within innovative organisations.
+Graduate Software Engineer with experience building full-stack web applications using JavaScript and Python.
+Academic background in Artificial Intelligence and data-driven systems, with hands-on experience from applied projects.
+Interested in building clean, maintainable software and strengthening core engineering fundamentals through real-world development.
 
 
 ## 🌐 Socials:
